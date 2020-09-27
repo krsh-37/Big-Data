@@ -1,0 +1,1 @@
+hadoop jar ipAnal.jar /log_input/server_log.log /ip_out

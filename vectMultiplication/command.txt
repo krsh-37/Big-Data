@@ -1,0 +1,1 @@
+hadoop jar vectmult.jar /matrix/matrix.txt /vector/vector.txt /sumOut /out
